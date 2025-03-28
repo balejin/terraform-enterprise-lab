@@ -5,5 +5,4 @@ projects:
     dir: "./"
     terraform_version: "1.0.0"
     autoplan:
-      when_modified: true
       enabled: true
