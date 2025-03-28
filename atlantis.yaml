@@ -1,8 +1,0 @@
-version: 3
-
-projects:
-  - name: "example-project"
-    dir: "./"
-    terraform_version: "1.0.0"
-    autoplan:
-      enabled: true
