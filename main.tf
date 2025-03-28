@@ -1,4 +1,4 @@
-resource "aws_vpc" "vpc-example" {
+resource "aws_vpc" "my-vpc" {
   cidr_block           = "100.64.0.0/16"
   enable_dns_support   = "true"
   enable_dns_hostnames = "true" # this gives it a public DNS name
